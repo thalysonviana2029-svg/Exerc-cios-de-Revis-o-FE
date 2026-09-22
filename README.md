@@ -4,7 +4,7 @@
 Exercício 02
 
 </head>
-<body>
+<body> 
     <center>
         <h1>Formulário</h1>
         <form id="formulario">
